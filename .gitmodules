@@ -1,0 +1,3 @@
+[submodule "LiDAR_Point_Cloud_Segmentation/pointnet/Pointnet_Pointnet2_pytorch"]
+	path = LiDAR_Point_Cloud_Segmentation/pointnet/Pointnet_Pointnet2_pytorch
+	url = https://github.com/yanx27/Pointnet_Pointnet2_pytorch.git
